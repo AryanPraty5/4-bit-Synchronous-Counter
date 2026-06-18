@@ -1,4 +1,6 @@
-#4 bit Synchronous Counter implemented and simulated in AMD Xilinx Vivado
+# 4 bit Synchronous Counter 
+
+A 4 bit Synchronous Counter implemented and simulated in AMD Xilinx Vivado
 
 ## Operations:
 * Synchronous (clk): Every flip-flop inside this module is hooked up to the exact same clock line.
