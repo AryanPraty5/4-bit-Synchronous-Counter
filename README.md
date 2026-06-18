@@ -8,7 +8,7 @@
 * Load : If load = 1 , then counter = data_in ignoring clock
 
 ## Schematic:
-![Schematic](assets/simulations.png)
+![Schematic](assets/schematic.png)
 
 ## Simulation Waveform:
-![Simulation_Result](assets/schematic.png)
+![Simulation_Result](assets/simulations.png)
